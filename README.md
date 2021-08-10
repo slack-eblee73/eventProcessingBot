@@ -1,4 +1,6 @@
-# eventProcessingBot 환경설정 및 수행
+# eventProcessingBot
+
+> eventProcessingBot 환경설정 및 수행
 
 ## 작업순서
 1. 등록 및 설정
